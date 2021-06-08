@@ -15,7 +15,7 @@ These are my own work at self driving nanodegree program. Welcome to any suggest
 |[6 Estimate location]|![alt text][p6]|<ul><li>C++</li><li>Sparce Localization</li><li>Particle Filter</li></ul>|
 |[7 Plan highway path]|![alt text][p7]|<ul><li>C++</li><li>Behavior Planner</li><li>Tragectory Prediction</li><li>Cost Function</li></ul>|
 |[8 Build PID controller]|![alt text][p8]|<ul><li>C++</li><li>PID Controller</li><li>Twiddle algorithm</li></ul>|
-|[Capstone ]|![alt text][capstone]|<ul><li>ROS</li><li>Motion Control</li><li>Traffic Light Detection</li><li>PID and Yaw Controller</li></ul>|
+|[System Integration]|![alt text][capstone]|<ul><li>ROS</li><li>Motion Control</li><li>Traffic Light Detection</li><li>PID and Yaw Controller</li></ul>|
 
 [//]: # (Image References)
 
@@ -38,7 +38,7 @@ These are my own work at self driving nanodegree program. Welcome to any suggest
 [6 Estimate location]: https://github.com/Akitsuyoshi/CarND-Kidnapped-Vehicle-Project
 [7 Plan highway path]: https://github.com/Akitsuyoshi/CarND-Path-Planning-Project
 [8 Build PID controller]: https://github.com/Akitsuyoshi/CarND-PID-Control-Project
-[Capstone]: https://github.com/Akitsuyoshi/CarND-Capstone
+[System Integration]: https://github.com/Akitsuyoshi/CarND-Capstone
 
 ---
 
